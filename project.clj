@@ -1,4 +1,4 @@
-(defproject prism "0.0.1"
+(defproject flux "0.0.1"
   :description "spike timing dependent plasticity"
   :url "http://prismofeverything.com"
   :license {:name "Eclipse Public License"

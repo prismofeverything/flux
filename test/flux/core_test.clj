@@ -1,6 +1,6 @@
-(ns prism.core-test
+(ns flux.core-test
   (:require [clojure.test :refer :all]
-            [prism.core :refer :all]))
+            [flux.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
